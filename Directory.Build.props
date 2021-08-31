@@ -1,0 +1,5 @@
+<Project>
+	<PropertyGroup>
+		<ApplicationManifest>$(MSBuildThisFileDirectory)app.manifest</ApplicationManifest>
+	</PropertyGroup>
+</Project>

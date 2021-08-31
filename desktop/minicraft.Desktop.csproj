@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup Label="Project">
+		<TargetFramework>net5.0</TargetFramework>
+		<OutputType>WinExe</OutputType>
+		<RuntimeIdentifiers>win10-x64;osx.10.11-x64;ubuntu.16.04-x64</RuntimeIdentifiers>
+		<AssemblyName>client</AssemblyName>
+		<!-- <ApplicationIcon>game.ico</ApplicationIcon> -->
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+		<Version>0.0.0</Version>
+		<FileVersion>0.0.0</FileVersion>
+	</PropertyGroup>
+	<PropertyGroup>
+	  <StartupObject>jaaj.Desktop.Program</StartupObject>
+	  <PackageId>client</PackageId>
+	</PropertyGroup>
+
+	<ItemGroup Label="Project References">
+		<ProjectReference Include="..\game\minicraft.Game.csproj" />
+	</ItemGroup>
+
+	<!-- <ItemGroup Label="Resources">
+		<EmbeddedResource Include="game.ico" />
+	</ItemGroup> -->
+</Project>

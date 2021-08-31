@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minicraft.Desktop", "desktop\minicraft.Desktop.csproj", "{C1F5030C-4371-4741-9431-3DE557AA9E6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minicraft.Game", "game\minicraft.Game.csproj", "{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minicraft.Resources", "resources\minicraft.Resources.csproj", "{088CFE14-541F-48D3-9337-73B70A3672E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Debug|x64.Build.0 = Debug|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Release|x64.ActiveCfg = Release|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Release|x64.Build.0 = Release|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1F5030C-4371-4741-9431-3DE557AA9E6F}.Release|x86.Build.0 = Release|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Debug|x64.Build.0 = Debug|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Release|x64.ActiveCfg = Release|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Release|x64.Build.0 = Release|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1E108C2-758E-4ECC-AB5C-BF1217E0E19C}.Release|x86.Build.0 = Release|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Debug|x64.Build.0 = Debug|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Debug|x86.Build.0 = Debug|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Release|x64.ActiveCfg = Release|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Release|x64.Build.0 = Release|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Release|x86.ActiveCfg = Release|Any CPU
+		{088CFE14-541F-48D3-9337-73B70A3672E6}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480B5E1B-8331-4D99-A7B0-6F2A0F029102}
+	EndGlobalSection
+EndGlobal

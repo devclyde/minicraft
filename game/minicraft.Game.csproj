@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup Label="Project References">
+		<ProjectReference Include="..\resources\minicraft.Resources.csproj" />
+	</ItemGroup>
+
+	<ItemGroup Label="Package References">
+		<PackageReference Include="ppy.osu.Framework" Version="2021.830.0" />
+	</ItemGroup>
+</Project>
